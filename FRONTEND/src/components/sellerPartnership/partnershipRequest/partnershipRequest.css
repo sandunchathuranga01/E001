@@ -1,0 +1,30 @@
+.popup {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.popup-inner {
+    position: relative;
+    padding: 32px;
+    margin-bottom: 10px;
+    width: 75%;
+    background-color: #FFFF;
+    border-radius: 8px;
+    border: 2px solid #6d9773;
+}
+
+.seller-request-back {
+    margin: 5px 40px 10px 40px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #6c757d;
+    border: 2px solid #6c757d;
+    border-radius: 25px;
+    background: transparent;
+    cursor: pointer;
+    transition: background 0.3s ease, color 0.3s ease;
+}

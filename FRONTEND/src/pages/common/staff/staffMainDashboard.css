@@ -1,0 +1,16 @@
+.staff-interface-main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.staff-interface-sidebar-container {
+  flex: 0 0 250px; /* Adjust the width of the sidebar as needed */
+  background-color: #f4f4f4; /* Optional: Set a background color for the sidebar */
+  border-right: 1px solid #ccc; /* Optional: Add a border to separate the sidebar and content */
+}
+
+.staff-interface-pages-container {
+  flex: 1;
+  background-color: #fff; /* Optional: Set a background color for the content area */
+}
+
