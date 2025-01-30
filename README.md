@@ -38,7 +38,4 @@ Welcome to **Herbalicious**, your go-to platform for exploring and embracing the
 
 To run Herbalicious locally, follow these steps:
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/herbal-web-app.git
